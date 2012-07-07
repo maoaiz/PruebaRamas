@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-color:#e8e8e8;
+    font-size: 16px;
+}
+body > header,body > footer{
+    text-align: center;
+}
+.b{
+    border:solid thin gray;
+}
+#container{
+    margin:0 auto;
+    width: 75%;
+}
+#container > section{
+    display: inline-block;
+    width: 30%;
+}
