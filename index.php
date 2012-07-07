@@ -16,6 +16,10 @@
                 <p>Este es un ejemplo de ramas</p>
                 <code>Este codigo fue escrito en el master</code>
             </section>
+            <section class="b">
+                <h2>Ejemplo de Ramas .</h2>
+                <code>Este codigo fue escrito en el dev</code>
+            </section>
         </div>
         <footer>
             <p>@MaoAiz</p>
