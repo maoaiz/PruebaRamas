@@ -14,9 +14,12 @@ body > header,body > footer{
 }
 #container{
     margin:0 auto;
+    overflow: hidden;
     width: 75%;
 }
 #container > section{
-    display: inline-block;
+    float: left;
+    min-height: 160px;
+    margin:0 auto;
     width: 30%;
 }
