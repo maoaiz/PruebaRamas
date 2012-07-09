@@ -20,6 +20,10 @@
                 <h2>Ejemplo de Ramas .</h2>
                 <code>Este codigo fue escrito en el dev</code>
             </section>
+            <section class="b">
+                <h2>Otra Rama</h2>
+                <code>otro código escrito con la otra rama</code>
+            </section>
         </div>
         <footer>
             <p>@MaoAiz</p>
