@@ -25,8 +25,8 @@
                 <code>otro código escrito con la otra rama</code>
             </section>
         </div>
-        <footer>
-            <p>@MaoAiz</p>
+        <footer class="b">
+            <p><a href="http://twitter.com/MaoAiz">@MaoAiz</a></p>
         </footer>
     </body>
 </html>
