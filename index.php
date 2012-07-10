@@ -10,7 +10,7 @@
         <header>
             <h1>Git Branchs</h1>
         </header>
-        <div id="container" class="b">
+        <div id="container" class="">
             <section class="b">
                 <h2>Ejemplo de Ramas.</h2>
                 <p>Este es un ejemplo de ramas</p>
@@ -25,7 +25,8 @@
                 <code>otro código escrito con la otra rama</code>
             </section>
         </div>
-        <footer class="b">
+        <footer class="">
+            <p>Todos los derechos izquierdos</p>
             <p><a href="http://twitter.com/MaoAiz">@MaoAiz</a></p>
         </footer>
     </body>

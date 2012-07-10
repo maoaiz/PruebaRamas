@@ -2,19 +2,32 @@
     margin:0;
     padding: 0;
 }
+a,a:visited,a:link{
+    color:tomato;
+}
 body{
-    background-color:#e8e8e8;
+    background-color:#e1e1e1;
     font-size: 16px;
 }
 body > header,body > footer{
     text-align: center;
-    min-height: 50px;
+    min-height: 100px;
+}
+body > footer{
+    background-color:#e0e0e0;
+/*    bottom: 0;*/
+    margin: 0 auto;
+    min-height: 200px;
+    padding: 20px 0;
+/*    position:  absolute;*/
+    width: 100%;
 }
 .b{
     border:solid thin gray;
 }
 #container{
     margin:0 auto;
+    min-height: 300px;
     overflow: hidden;
     width: 75%;
 }
