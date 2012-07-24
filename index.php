@@ -29,5 +29,7 @@
             <p>Todos los derechos izquierdos</p>
             <p><a href="http://twitter.com/MaoAiz">@MaoAiz</a></p>
         </footer>
+        <script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
+	<script src="js/script.js"></script>
     </body>
 </html>
